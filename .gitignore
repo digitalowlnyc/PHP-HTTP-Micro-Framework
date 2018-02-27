@@ -1,0 +1,18 @@
+# General
+ignored/
+output/
+archived-output/
+env/
+
+# Laravel
+storage/*
+
+# Node
+node_modules/
+
+# Composer
+vendor/
+
+.DS_Store
+.idea
+.env
